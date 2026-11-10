@@ -1,10 +1,9 @@
 # WardenMS
 ### Implementasi Server Minecraft Berbasis Rust dengan Bevy ECS
 
-[![Versi Rust](https://img.shields.io/badge/Rust-1.75%2B-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![Versi Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen?style=for-the-badge&logo=minecraft)](https://minecraft.net/)
-[![Lisensi: MIT](https://img.shields.io/badge/Lisensi-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Pengembangan-blue?style=for-the-badge)]()
+[![Language: Rust](https://img.shields.io/badge/Language-Rust-orange.svg?logo=rust)](https://www.rust-lang.org/)
+[![License: MIT](https://img.shields.io/badge/Lisensi-MIT-yellow.svg)](LICENSE)
+[![Owner: Wildan Erly](https://img.shields.io/badge/Owner-Wildan_Erly-emerald.svg)](https://github.com/willDoneID)
 
 ---
 
@@ -27,7 +26,7 @@ Terinspirasi dari performa tinggi server custom modern seperti FerrumC dan Pumpk
 ---
 
 ## Persyaratan Sistem & Instalasi
-Pastikan Anda sudah menginstal (*Rust toolchain*)[https://www.rust-lang.org/] terbaru di komputer Anda.
+Pastikan Anda sudah menginstal (*Rust toolchain*)[(https://www.rust-lang.org/)] terbaru di komputer Anda.
 
 1. Clone repositori ini melalui terminal:
    ```text
