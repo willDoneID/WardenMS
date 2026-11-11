@@ -47,5 +47,5 @@ Proyek ini dikembangkan secara mandiri dengan bantuan kecerdasan buatan(AI). Kon
 ---
 
 ## Lisensi
-Proyek ini dilisensikan di bawah (MIT License)[LICENSE].
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 Copyright (c) 2026 Wildan Erly (Will Done Project).
